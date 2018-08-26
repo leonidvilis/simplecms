@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Admin Panel"
+AuthUserFile D:/OSPANEL/domains/simplecms/admin/.htpasswd
+Require valid-user
